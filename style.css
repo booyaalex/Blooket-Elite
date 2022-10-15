@@ -1,0 +1,111 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+body{
+  text-align: center;
+  background-color: saddlebrown;
+    font-family: fantasy;
+    margin: 0;
+}
+address{
+  font-style: normal;
+  color: black;
+}
+button{
+  border-width: 3px;
+  border-color: blue;
+}
+
+#welcome {
+    text-align: center;
+  background-color: royalblue;
+    padding-bottom: 20px;
+}
+#videos {
+    background-color: saddlebrown;
+}
+#work {
+    background-color: saddlebrown;
+}
+h1{
+    font-size: 40px;
+}
+iframe{
+    border: 3px;
+    border-style: solid;
+    border-color: blue;
+}
+#contact {
+    background-color: saddlebrown;
+}
+#post {
+    background-color: saddlebrown;
+}
+#w {
+  width: 240px;
+  height: 240px;
+  border: 5.7px solid #000;
+    margin-top: 10px;
+}
+img:hover {
+    transform: scale(1.1);
+}
+#w:hover{
+    transform: scale(1);
+}
+#writings{
+    background-color: saddlebrown;
+}
+#gfar{
+    border: 5.7px solid #000;
+}
+html{
+    scroll-behavior: smooth;
+}
+#myNavbar{
+    background-color: royalblue;
+    
+}
+
+// |iframe| id="gfar"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2815.0666674416375!2d170.11209651534983!3d-45.124984794162046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82a4d9841f4e8b1%3A0xc78427d0f564bf55!2sManiototo%20Golf%20Club!5e0!3m2!1sen!2sus!4v1647793649379!5m2!1sen!2sus" width="600" height="450" style="border-style: solid;" allowfullscreen="" loading="lazy"> |iframe|
+<div id="myCarousel" class="carousel slide" >
+
+#myCarousel { background-color: red; } #myCarousel img { height: 300px; width: 300px; margin-top: 35px; } .carousel-inner p { margin-bottom: 15px; margin-top: 15px; color : white; font-size: 20px; }
+.list-group-item-info{
+   width: 500px; 
+    margin-left: 400px;
+    border: 3px solid #237;
+    margin-bottom: 10px;
+}
+.list-group-item-danger{
+   width: 500px; 
+    margin-left: 400px;
+    border: 3px solid #922;
+    margin-bottom: 10px;
+}
+.list-group-item-success{
+   width: 500px; 
+    margin-left: 400px;
+    border: 3px solid #4fc951;
+    margin-bottom: 10px;
+}
+.list-group-item-warning{
+   width: 500px; 
+    margin-left: 400px;
+    border: 3px solid #ffef63;
+    margin-bottom: 10px;
+}
+#posts:hover{
+    transform: scale(1);
+}
+#posts{
+    width: 150px;
+    height: 150px;
+}
+.list-group{
+   
+}
+h5{
+    color: blue;
+}
